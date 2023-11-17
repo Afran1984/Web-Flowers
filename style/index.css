@@ -1,0 +1,137 @@
+h2{
+    font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+header{
+    background-color: #D9D9D9;
+    
+    margin: 0;
+}
+p{
+    font-size: small;
+}
+.header-container{
+    display: flex;
+    /* padding: 15px; */
+    padding: 30px;
+    justify-content: space-between;
+
+}
+.header-title{
+    margin: 240px 197px 147px;
+}
+.button-prymari{
+    padding: 20px 43px;
+    color: white;
+    background-color: #E55473;
+    border-radius: 10px;
+}
+.header-img{
+    width: 435px;
+    height: 500px;
+    position: bottom;
+}
+/* main */
+.Flower-div{
+    text-align: center;
+    margin-top: 178px;
+    margin-left: 400px;
+    margin-right: 400px ;
+}
+h3{
+    font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+.tree-container{
+    display: flex;
+    margin-top: 48px;
+    margin-left: 350px;
+    margin-right: 240px;
+    text-align: center;
+}
+.flower-tree{
+    border-radius: 150px 150px 0 0;
+    background-color: gray;
+    margin: 24px;
+}
+.size{
+    width: 310px;
+    height: 428px;
+}
+.center{
+    text-align: center;
+    /* display: flex; */
+}
+.Div-support{
+    text-align: center;
+}
+.Support{
+    display: flex;
+    text-align: center;
+    /* margin: ; */
+    padding: 100px;
+    gap: 100px;
+    box-shadow: 30px 30px 30px gray;
+}
+.Shado{
+    text-align: center;
+    padding: 50px;
+}
+.color{
+    background-color: #D9D9D9;
+    margin-top: 128px;
+}
+.image-flex{
+    display: flex;
+    margin-left: 270px;
+    margin-top: 48px
+}
+.imagess{
+   margin: 10px;
+   size: 250px;
+   
+}
+.size{
+    width: 150px;
+    height: 170px;
+}
+.top{
+    margin-top: 128px;
+    margin-bottom: 128px;
+}
+.form{
+    display: flex;
+    /* text-align: center; */
+    margin-left: 240px;
+}
+.back-image{
+    background-image: url(../Flower-Asset/Rectangle\ 9.png);
+    width: 1440px;
+    height: 350px;
+    text-align: center;
+}
+.Form-container{
+    text-align: center;
+    padding: 100px;
+    /* margin-top: 138px; */
+}
+.form-button{
+    margin-left: 10px;
+}
+.Email{
+    text-decoration: none;
+    width: 500px;
+    border-radius: 10px;
+}
+.footer-colors{
+    background-color: black;
+    color: white;
+    margin-top: 30px;
+}
+.footer-class{
+    text-align: center;
+    padding: 50px;
+}
+#flower{
+    color: #E55473;
+}
